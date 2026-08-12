@@ -10,7 +10,7 @@ x1 OLED 0.96” screen
 
 Wires
 
-#Enviroments and online tools used
+# Enviroments and online tools used
 
 Arduino IDE
 
@@ -22,7 +22,7 @@ Video trimmer: https://online-video-cutter.com/
 
 Video resolution modifier: https://online-video-cutter.com/resize-video
 
-#Media 
+# Media 
 
 <img width="2048" height="1376" alt="image" src="https://github.com/user-attachments/assets/61630e47-aa95-41ae-81a1-b1009baf8c77" />
 
